@@ -1,0 +1,21 @@
+[project]
+name = "bilingualdatabasics"
+version = "0.1.0"
+description = "Data Science Basics with Parallel R and Python"
+readme = "README.md"
+authors = [
+    { name = "Louis Teitelbaum", email = "louist@post.bgu.ac.il" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pytest>=9.1.1",
+]
+
+[project.scripts]
+bilingualdatabasics = "bilingualdatabasics:main"
+
+[build-system]
+requires = ["uv_build>=0.12.23,<0.13.0"]
+build-backend = "uv_build"
