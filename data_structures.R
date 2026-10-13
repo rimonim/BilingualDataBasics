@@ -159,9 +159,9 @@ as.logical(c(1,0)) # convert a number to a logical value (1 = TRUE, 0 = FALSE)
 
 # R has no mutable objects except environments 
 # (although some mutability is used behind the scenes for performance reasons).
-# So you never have to worry about accidentally changing an object when you pass it to a function, when you assign it to a new variable, etc.
-
-
+# So you almost never have to worry about accidentally changing an object when 
+# you pass it to a function, when you assign it to a new variable, etc.
+# (note that some R packages, such as data.table, do use mutable objects)
 
 
 
