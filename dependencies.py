@@ -1,6 +1,6 @@
-# A library (a.k.a. package, or 'module' if it's a single .py file) is a collection 
-# of functions and/or data that someone else wrote so you don't have to.
-# To use a package:
+# A library (a.k.a. package, or 'module' if it's a single .py file) 
+# is a collection of functions and/or data (sometimes including code in lower-level languages).
+# To use a package:``
 #   1. install it (in the terminal, usually once per project)
 #   2. import it (in the code, once per session)
 

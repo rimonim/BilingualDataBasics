@@ -1,5 +1,5 @@
-# A library (a.k.a. package) is a collection of functions and/or data
-# that someone else wrote so you don't have to.
+# A library (a.k.a. package) is a collection of functions and/or data,
+# (sometimes including code in lower-level languages like C, Fortran, or C++)
 # To use a package:
 #   1. install it (in the console, usually once per computer)
 #   2. load it (in the code, once per session)
