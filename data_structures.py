@@ -28,7 +28,7 @@ isinstance(age, float) # check if age is a float
 default_int = int()
 23
 0
-int('nan') # missing value for integers
+    # Python has no dedicated missing value for integers
 
 # True/False values are called "bool" in Python, and "logical" in R
 default_bool = bool()
