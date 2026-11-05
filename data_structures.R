@@ -34,7 +34,7 @@ NA_integer_ # missing value for integers
 default_logical <- logical()
 TRUE
 FALSE
-NA_logical_
+NA # No need to write NA_logical. NA is a logical by default.
 
 # Text values are called "character" in R, and "str" in Python
 default_character <- character()

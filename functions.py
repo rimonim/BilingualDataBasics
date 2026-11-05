@@ -12,6 +12,7 @@
 # To see what a function does and how to use it, you can use the help() function or the ? operator
 # ?isinstance
 help(isinstance)
+# to see the code itself, right click -> "Go to Definition" (or F12)
 
 # Defining New Functions -------------------------------------------------
 

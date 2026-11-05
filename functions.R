@@ -12,6 +12,7 @@
 # To see what a function does and how to use it, you can use the help() function or the ? operator
 ?is.numeric
 help(is.numeric)
+View(is.numeric) # see the code itself (if it is written in R)
 
 # Defining New Functions -------------------------------------------------
 

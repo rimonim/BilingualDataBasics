@@ -10,8 +10,8 @@
 
 # if / else statements ---------------------------------------------------
 
-from datetime import date
-date = date(2025, 6, 2) # try changing this
+import datetime as dt
+date = dt.date(2025, 6, 2) # try changing this
 
 if date.year < date.today().year:
     # what to do if the first condition is true
